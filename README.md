@@ -25,7 +25,7 @@ Desenvolver uma aplicação híbrida/responsiva, que funcione como Serviço de A
 ## :pushpin: Requisitos
 
 **Requisitos Funcionais**
-1. &nbsp; Área de Cliente e áreade Administrador, com controles de acesso (autenticação/autorização);
+1. &nbsp; Área de Cliente e área de Administrador, com controles de acesso (autenticação/autorização);
 2. &nbsp; Opções de criar e acompanhar ROs;
 3. &nbsp; Comunicação com os administradores do sistema via chat;
 4. &nbsp; Atualização do Status das ROs em tempo real;
